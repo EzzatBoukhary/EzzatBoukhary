@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **Reel Talk as an Android Developer Intern**
 
-- 💬 Ask me about **Android app development, Kotlin, Java, C**
+- 💬 Ask me about **Android app development, Kotlin, Java, C#, C**
 
 - 📫 How to reach me **ezzatboukhary03@gmail.com**
 
