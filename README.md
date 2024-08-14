@@ -103,7 +103,3 @@ For more details on my work experience, projects, and skills, feel free to check
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ezzatboukhary/ezzatboukhary/output/snake.svg" alt="Snake animation" />
-
-###
