@@ -33,11 +33,11 @@ I’m actively involved in two key projects:
 
 🌟 **Experience Highlights**
 
-- **Android Developer Intern at Reel Talk**: Led the development of a feature-rich Android app using Kotlin, Jetpack Compose, and Firebase. Improved app performance by 15% and reduced crash rates by 20% through rigorous testing and optimization.
+- **Android Developer Intern at [Reel Talk](https://www.linkedin.com/company/the-reel-talk)**: Led the development of a feature-rich Android app using Kotlin, Jetpack Compose, and Firebase. Improved app performance by 15% and reduced crash rates by 20% through rigorous testing and optimization.
 
-- **Dragonotchi**: Developed an award-winning Android virtual pet app, securing the Best Design award at KnightHacks VI.
+- **[Dragonotchi](https://github.com/Caitlin-Fabian/dragonotchi)**: Developed an award-winning Android virtual pet app, securing the Best Design award at KnightHacks VI.
 
-- **KillerBot**: Created a popular C# Discord bot with over 250,000 users, featuring 60+ commands and praised for its functionality and user engagement.
+- **[KillerBot](https://github.com/EzzatBoukhary/KillerBot)**: Created a popular C# Discord bot with over 250,000 users, featuring 60+ commands and praised for its functionality and user engagement.
 
 📄 **[View My Resume](https://drive.google.com/file/d/1p4zQ5j1vAa5xzovAew3WFuxcWn7HHd14/view?usp=sharing)**  
 For more details on my work experience, projects, and skills, feel free to check out my resume.
