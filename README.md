@@ -85,7 +85,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ezzatboukhary/ezzatboukhary/output/snake.svg" alt="Snake animation" />
-
-###
