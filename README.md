@@ -24,20 +24,17 @@
 
 Hello! I’m a Computer Science student at the University of Central Florida, currently focused on developing advanced software solutions and building scalable, high-performance applications. With a strong foundation in both mobile and web technologies, I excel in creating innovative solutions that drive user engagement and satisfaction.
 
-🚀 **Current Focus**  
-I’m actively involved in two key projects:
+🌟 **Experience & Achievements**  
 
-- **AI-Powered Cross-Platform Application**: Partnering on a major project using Flutter for a versatile, cross-platform solution. This project incorporates Spring Boot for backend services, PostgreSQL for data management, Figma for design, and OpenAI for AI-powered features.
+- **Android Developer Intern at [Reel Talk](https://www.linkedin.com/company/the-reel-talk)**  
+  Developed a feature-rich Android app using **Kotlin, Jetpack Compose, Firebase, and MVVM**, leading the entire Android development process. Optimized app speed by **15%** and reduced crash rates by **20%** through iterative testing and Firebase analytics.  
 
-- **AWS Web Application**: Independently developing a web application using ReactJS and TypeScript, while learning and implementing various AWS services including DynamoDB, S3, Cognito, and Amplify to build a robust and scalable solution.
+- **[KillerBot](https://github.com/EzzatBoukhary/KillerBot) – 250K+ Users, 600+ Servers**  
+  Created and scaled a highly popular Discord bot utilizing **C# and Discord.NET**, handling **hundreds of real-time interactions** with 60+ commands. 
 
-🌟 **Experience Highlights**
-
-- **Android Developer Intern at [Reel Talk](https://www.linkedin.com/company/the-reel-talk)**: Led the development of a feature-rich Android app using Kotlin, Jetpack Compose, and Firebase. Improved app performance by 15% and reduced crash rates by 20% through rigorous testing and optimization.
-
-- **[KillerBot](https://github.com/EzzatBoukhary/KillerBot)**: Created a popular C# Discord bot with over 250,000 users, featuring 60+ commands and praised for its functionality and user engagement.
-
-- **[Dragonotchi](https://github.com/Caitlin-Fabian/dragonotchi)**: Developed an award-winning Android virtual pet app, securing the Best Design award at KnightHacks VI.
+- **[Dragonotchi](https://github.com/Caitlin-Fabian/dragonotchi) – Award-Winning Virtual Pet** 🏆  
+  Developed *Dragonotchi*, an ESP8266-powered virtual pet, controlled via an Android app built with Kotlin & Jetpack Compose.  
+  **🏅 Winner of the Best Design Award at KnightHacks VI.**  
 
 📄 **[View My Resume](https://drive.google.com/file/d/1p4zQ5j1vAa5xzovAew3WFuxcWn7HHd14/view?usp=sharing)**  
 For more details on my work experience, projects, and skills, feel free to check out my resume.
