@@ -5,19 +5,24 @@
 <br clear="both">
 
 <div align="left">
+  <a href="https://drive.google.com/file/d/1p4zQ5j1vAa5xzovAew3WFuxcWn7HHd14/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-blueviolet?style=for-the-badge&logo=google-drive&logoColor=white" height="30" alt="resume badge" />
+  </a>
   <a href="https://www.linkedin.com/in/ezzatboukhary/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
   <a href="https://ezzatboukhary.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
-  </a>
-  <a href="https://devpost.com/EzzatBoukhary" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Devpost&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/ezzatboukhary03" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=brightgreen&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio logo" />
   </a>
 </div>
+
+
+<sub>
+Find me elsewhere: 
+<a href="https://devpost.com/EzzatBoukhary">Devpost</a> • 
+<a href="https://www.hackerrank.com/profile/ezzatboukhary03">HackerRank</a>
+</sub>
+
 
 ###
 
@@ -40,7 +45,6 @@ Some recent highlights:
 - 🎭 Contributed to **Gesture-Based Puppetry** – Developed real-time 3D character control for **TeachLivE**, a UCF platform that trains educators through live, interactive scenarios.
 
 
-📄 [View My Resume](https://github.com/EzzatBoukhary/EzzatBoukhary/blob/main/Ezzat_Boukhary_resume.pdf)
 
 ###
 
