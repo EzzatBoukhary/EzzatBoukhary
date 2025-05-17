@@ -30,19 +30,25 @@ Find me elsewhere:
 
 ###
 
-Hey, I’m Ezzat. I'm a developer who’s passionate about building software that actually makes a difference.
+Hey, I’m Ezzat. I'm a developer and researcher who’s passionate about building software that makes a real impact.
 
-For me, it’s not just about writing code that works. I care about creating experiences that feel meaningful and leave a lasting impression. Whether I’m working on a budgeting platform, an interactive character system, or a mobile app, I focus on how people interact with what I build and how it can improve their everyday lives.
+Whether I’m developing an Android app, contributing to academic research, or improving a club’s digital infrastructure, I focus on creating experiences that are meaningful, thoughtful, and useful in the real world.
 
-Lately, I’ve been working on production-grade web and Android apps, collaborating with teams to bring ideas to life and always looking for ways to make things faster, smoother, and more intuitive.
+Lately, I’ve been focused on research, leadership, and technical depth:
+
+- 🔬 Undergraduate Researcher @ **UNARY Lab (UCF)** – Working on the **Unary Synthesis** project to optimize computation graphs and model transformation  
+- ☀️ Undergraduate Researcher @ **FSEC / DARTS** – Contributing to electroluminescence image analysis for photovoltaic module diagnostics  
+- 🌐 Web Systems Developer Officer @ **Jets and Aeronautics Society (JAS)** – Leading a full migration and refactor of the club’s AWS-hosted site and internal tooling  
+- 💸 Former Frontend Developer Intern @ **BudgetWise** – Built and shipped core features in Vue + Firebase, improved performance, and mentored a new dev  
+- 📱 Former Android Developer Intern @ **Reel Talk** – Owned Android development using Kotlin and Jetpack Compose, taking the app to near-beta
+
+And a few personal highlights I'm proud of:
+- 🤖 Built **KillerBot**, a Discord bot used by 250K+ users across 600+ servers  
+- 🐉 Won **Best Design @ KnightHacks VI** with *Dragonotchi*, a virtual pet synced across ESP8266 and Android  
+
+Outside of code, I enjoy solving real problems, collaborating with curious people, and learning by building.
 
 
-Some recent highlights:
-- 💸 Frontend Developer Intern @ **BudgetWise** – Built and shipped core features for a Vue + Firebase budgeting app
-- 📱 Android Developer Intern @ **Reel Talk** – Led Android development of a Kotlin-based app transforming it to a beta-ready state.
-- 🐉 Winner @ KnightHacks VI – Created *Dragonotchi*, a smart virtual pet with ESP8266 and Android sync. Awarded Best Design.
-- 🤖 Created **KillerBot**, a Discord bot serving 250K+ users across 600+ servers.
-- 🎭 Contributed to **Gesture-Based Puppetry** – Developed real-time 3D character control for **TeachLivE**, a UCF platform that trains educators through live, interactive scenarios.
 
 
 
