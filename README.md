@@ -46,11 +46,9 @@ Some highlights:
 **Tools**  
 [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite,prisma,aws,docker,git,githubactions,linux,androidstudio,visualstudio,figma,postman,jira&perline=8)](https://skillicons.dev)
 
-### 🏆 Achievements & Stats 
+### 🏆 Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ezzatboukhary&theme=onedark&column=4&row=1&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatboukhary&layout=compact&theme=blue-green" height="150" />
 
 <img src="https://readme-jokes.vercel.app/api" width="350"/>
 
