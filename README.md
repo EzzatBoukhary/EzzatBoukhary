@@ -1,21 +1,18 @@
 <h1 align="center">👋 Hi, I'm Ezzat Boukhary</h1>
 
-###
-
-<br clear="both">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=blue&width=500&lines=Software+Engineer;Mobile+%26+Web+Developer;Kotlin+%7C+Compose+Multiplatform+%7C+SwiftUI;React+%7C+SvelteKit+%7C+Node.js;AWS+%7C+Firebase+%7C+Docker)](https://git.io/typing-svg)
 
 <div align="left">
   <a href="https://drive.google.com/file/d/1p4zQ5j1vAa5xzovAew3WFuxcWn7HHd14/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF-blueviolet?style=for-the-badge&logo=google-drive&logoColor=white" height="30" alt="resume badge" />
+    <img src="https://img.shields.io/badge/Resume-PDF-blueviolet?style=for-the-badge&logo=google-drive&logoColor=white" height="28" />
   </a>
   <a href="https://www.linkedin.com/in/ezzatboukhary/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="https://ezzatboukhary.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=brightgreen&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio logo" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=brightgreen&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </div>
-
 
 <sub>
 Find me elsewhere: 
@@ -23,135 +20,38 @@ Find me elsewhere:
 <a href="https://www.hackerrank.com/profile/ezzatboukhary03">HackerRank</a>
 </sub>
 
+### 👨‍💻 About Me  
 
-###
+I’m a **software engineer** who enjoys building real-world apps that are performant, maintainable, and actually solve problems.  
+Right now, I’m leading mobile development at **yHere**, a startup where I brought our Kotlin Multiplatform app to iOS, achieved major efficiency gains, and introduced GitHub workflows that make our team move faster.  
 
-<h3 align="left">👨‍💻 About Me</h3>
+I’m also the **Web Systems Developer** for UCF’s Jet & Aeronautics Society (400+ members), where I’m modernizing our AWS-hosted site with SvelteKit and Prisma.  
 
-###
+Previously:  
+- Interned at **BudgetWise** (Vue + Firebase) → shipped core features, streamlined CI/CD, mentored a new teammate.  
+- Built the Android app for **Reel Talk** (Kotlin + Jetpack Compose) → brought it to near-beta, cut crashes, boosted performance.  
 
-Hey, I’m Ezzat. I'm a developer and researcher who’s passionate about building software that makes a real impact.
+Some highlights:  
+- 🐉 [**Dragonotchi**](https://devpost.com/software/dragonotchi): Won *Best Design @ KnightHacks VI*, a cross-device virtual pet (Android + ESP8266).  
+- 🤖 [**KillerBot**](https://github.com/EzzatBoukhary/KillerBot): A Discord bot that grew to 250K+ users across 600 servers.  
 
-Whether I’m developing an Android app, contributing to academic research, or improving a club’s digital infrastructure, I focus on creating experiences that are meaningful, thoughtful, and useful in the real world.
+### 🛠️ Tech Stack  
 
-Lately, I’ve been focused on research, leadership, and technical depth:
+**Languages**  
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ts,swift,python,java,js,dart,cpp,c,cs,php,haskell,html,css&perline=8)](https://skillicons.dev)
 
-- 🔬 Undergraduate Researcher @ **UNARY Lab (UCF)** – Working on the **Unary Synthesis** project to optimize computation graphs and model transformation  
-- ☀️ Undergraduate Researcher @ **FSEC / DARTS** – Contributing to electroluminescence image analysis for photovoltaic module diagnostics  
-- 🌐 Web Systems Developer Officer @ **Jets and Aeronautics Society (JAS)** – Leading a full migration and refactor of the club’s AWS-hosted site and internal tooling  
-- 💸 Former Frontend Developer Intern @ **BudgetWise** – Built and shipped core features in Vue + Firebase, improved performance, and mentored a new dev  
-- 📱 Former Android Developer Intern @ **Reel Talk** – Owned Android development using Kotlin and Jetpack Compose, taking the app to near-beta
+**Frameworks & Libraries**  
+[![My Skills](https://skillicons.dev/icons?i=react,vue,svelte,nextjs,flutter,nodejs,express,threejs,opencv,tensorflow,dotnet,flask,tailwind&perline=8)](https://skillicons.dev)
 
-And a few personal highlights I'm proud of:
-- 🤖 Built **KillerBot**, a Discord bot used by 250K+ users across 600+ servers  
-- 🐉 Won **Best Design @ KnightHacks VI** with *Dragonotchi*, a virtual pet synced across ESP8266 and Android  
+**Tools**  
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite,prisma,aws,docker,git,githubactions,linux,androidstudio,visualstudio,figma,postman,jira&perline=8)](https://skillicons.dev)
 
-Outside of code, I enjoy solving real problems, collaborating with curious people, and learning by building.
+### 🏆 Achievements & Stats 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ezzatboukhary&theme=onedark&column=4&row=1&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)  
 
-###
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatboukhary&layout=compact&theme=blue-green" height="150" />
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+<img src="https://readme-jokes.vercel.app/api" width="350" height="100"/>
 
-<div align="left">
-
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="Haskell" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
-
-  <!-- Frameworks / Libraries -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="SvelteKit" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="Prisma" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/opencv/white" height="40" alt="OpenCV" style="background:#5C3EE8; border-radius:4px;" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="TensorFlow" />
-
-  <!-- Tools / Platforms -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="Xcode" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira" />
-
-</div>
-
-
-
-###
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatboukhary&layout=compact&theme=blue-green" height="150" />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ezzatboukhary/ezzatboukhary/output/snake.svg" alt="Snake animation" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
