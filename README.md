@@ -52,6 +52,6 @@ Some highlights:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzatboukhary&layout=compact&theme=blue-green" height="150" />
 
-<img src="https://readme-jokes.vercel.app/api" width="350" height="100"/>
+<img src="https://readme-jokes.vercel.app/api" width="350"/>
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
