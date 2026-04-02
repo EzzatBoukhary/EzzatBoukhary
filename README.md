@@ -1,55 +1,55 @@
 <h1 align="center">👋 Hi, I'm Ezzat Boukhary</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=blue&width=500&lines=Software+Engineer;Mobile+%26+Web+Developer;Kotlin+%7C+Compose+Multiplatform+%7C+SwiftUI;React+%7C+SvelteKit+%7C+Node.js;AWS+%7C+Firebase+%7C+Docker)](https://git.io/typing-svg)
-
-<div align="left">
-  <a href="https://drive.google.com/file/d/1p4zQ5j1vAa5xzovAew3WFuxcWn7HHd14/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF-blueviolet?style=for-the-badge&logo=google-drive&logoColor=white" height="28" />
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=700&lines=Software+Engineer;Mobile+%2B+Full-Stack+Developer;Flutter+%7C+Kotlin+%7C+TypeScript;Building+real-world+software">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=700&lines=Software+Engineer;Mobile+%2B+Full-Stack+Developer;Flutter+%7C+Kotlin+%7C+TypeScript;Building+real-world+software" alt="Typing SVG" />
   </a>
-  <a href="https://www.linkedin.com/in/ezzatboukhary/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-  <a href="https://ezzatboukhary.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=brightgreen&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-</div>
+</p>
 
-<sub>
-Find me elsewhere: 
-<a href="https://devpost.com/EzzatBoukhary">Devpost</a> • 
-<a href="https://www.hackerrank.com/profile/ezzatboukhary03">HackerRank</a>
-</sub>
+<p align="center">
+  <a href="https://ezzatboukhary.github.io/">Website</a> •
+  <a href="https://www.linkedin.com/in/ezzatboukhary/">LinkedIn</a> •
+  <a href="mailto:ezzatboukhary03@gmail.com">Email</a> •
+  <a href="https://devpost.com/EzzatBoukhary">Devpost</a> •
+  <a href="https://www.hackerrank.com/profile/ezzatboukhary03">HackerRank</a>
+</p>
 
-### 👨‍💻 About Me  
+---
 
-I’m a **software engineer** who enjoys building real-world apps that are performant, maintainable, and actually solve problems.  
-Right now, I’m leading mobile development at **yHere**, a startup where I brought our Kotlin Multiplatform app to iOS, achieved major efficiency gains, and introduced GitHub workflows that make our team move faster.  
+### 👨‍💻 About Me
 
-I’m also the **Web Systems Developer** for UCF’s Jet & Aeronautics Society (400+ members), where I’m modernizing our AWS-hosted site with SvelteKit and Prisma.  
+I’m a software engineer focused on mobile and full-stack development, with experience building production apps, internal tools, and interactive systems.
 
-Previously:  
-- Interned at **BudgetWise** (Vue + Firebase) → shipped core features, streamlined CI/CD, mentored a new teammate.  
-- Built the Android app for **Reel Talk** (Kotlin + Jetpack Compose) → brought it to near-beta, cut crashes, boosted performance.  
+I’m currently working at **yHere**, where I’ve contributed across Flutter, Kotlin Multiplatform, backend systems, auth, CI/CD, and product delivery. I’ve also worked on web and mobile products at **BudgetWise**, **Reel Talk**, and **UCF**, with a strong focus on performance, maintainability, and shipping useful software.
 
-Some highlights:  
-- 🐉 [**Dragonotchi**](https://devpost.com/software/dragonotchi): Won *Best Design @ KnightHacks VI*, a cross-device virtual pet (Android + ESP8266).  
-- 🤖 [**KillerBot**](https://github.com/EzzatBoukhary/KillerBot): A Discord bot that grew to 250K+ users across 600 servers.  
+### 🚀 Featured Projects
 
-### 🛠️ Tech Stack  
+- 🧠 [**KillerBot**](https://github.com/EzzatBoukhary/KillerBot)  
+  Discord bot platform that served **250K+ users across 600+ servers**.
+
+- 🎭 [**Gesture-Based Puppetry**](https://sites.google.com/view/teachlive/home)  
+  Real-time 3D puppeteering system built for UCF TeachLivE.
+
+- 📅 [**College Event Platform**](https://github.com/EzzatBoukhary/college-event-platform)  
+  Full-stack event management platform with secure, constraint-driven scheduling.
+
+- 🐉 [**Dragonotchi**](https://devpost.com/software/dragonotchi)  
+  **Best Design @ KnightHacks VI** — a synced virtual pet across mobile and hardware.
+
+- 🌿 [**Campus Critters**](https://github.com/EzzatBoukhary/animal-tracker)  
+  Wildlife reporting platform built for the UCF community.
+
+### 🛠️ Tech Stack
 
 **Languages**  
 [![My Skills](https://skillicons.dev/icons?i=kotlin,ts,swift,python,java,js,dart,cpp,c,cs,php,haskell,html,css&perline=8)](https://skillicons.dev)
 
 **Frameworks & Libraries**  
-[![My Skills](https://skillicons.dev/icons?i=react,vue,svelte,nextjs,flutter,nodejs,express,threejs,opencv,tensorflow,dotnet,flask,tailwind&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,vue,svelte,nextjs,nodejs,express,threejs,tensorflow,dotnet,flask,tailwind,firebase&perline=8)](https://skillicons.dev)
 
-**Tools**  
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite,prisma,aws,docker,git,githubactions,linux,androidstudio,visualstudio,figma,postman,jira&perline=8)](https://skillicons.dev)
+**Tools & Platforms**  
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,prisma,mongodb,mysql,postgres,sqlite,git,githubactions,linux,androidstudio,figma,postman,jira&perline=8)](https://skillicons.dev)
 
-### 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ezzatboukhary&theme=onedark&column=4&row=1&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)  
-
-<img src="https://readme-jokes.vercel.app/api" width="350"/>
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+<p align="center">
+  For more, check out my <a href="https://ezzatboukhary.github.io/">website portfolio</a>.
+</p>
